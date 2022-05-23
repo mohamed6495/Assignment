@@ -1,6 +1,6 @@
-# simple Products App ✔️
+# Simple Products App ✔️
 
-#### A simple Products App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
+#### A Simple Products App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
 
 The App is using the [Products https://dummyjson.com/ ] to Get  Products.
 
