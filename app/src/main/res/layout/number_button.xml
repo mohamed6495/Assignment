@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00656565"
+    android:orientation="horizontal">
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/subtract_btn"
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:background="@drawable/draw_white_radius_bg"
+        android:text="-"
+        android:textColor="#656565"
+        />
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/number_counter"
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+
+        android:background="@drawable/draw_white_radius_bg"
+        android:gravity="center"
+        android:textColor="#656565" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/add_btn"
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:background="@drawable/draw_white_radius_bg"
+        android:text="+"
+        android:textColor="#656565"
+      />
+
+</LinearLayout>

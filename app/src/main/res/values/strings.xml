@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="no_content">"Try Again "</string>
+    <string name="sub_total">Total</string>
+    <string name="Successfully">Successfully added</string>
+    <string name="delete">Item is delete</string>
+    <string name="empty">Cart is empty</string>
+</resources>
